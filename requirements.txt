@@ -1,1 +1,7 @@
-litellm
+Open AI LiteLLM
+
+Endpoints include 
+
+http://localhost:11434/api/chat # multiple messages
+http://localhost:11434/api/generate # single message
+http://localhost:11434/api/tags # list avaliable models

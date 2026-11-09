@@ -13,3 +13,5 @@ tokens = litellm.token_counter(
 )
 
 print("Token count:", tokens)
+
+# this is just an estimate of the tokens on the basis of llmlite tokenizer, actual token count may vary 
